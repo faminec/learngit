@@ -1,2 +1,2 @@
 Git is a disributed version control system.
-Gir is free software.
+Gir is free software distributed under the GPL.
